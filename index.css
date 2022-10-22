@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A
+}
+
+#home {
+    color: white;
+    font: verdana;
+}
+#guest { 
+    color: white;
+    font: verdana;
+    
+}
+#home-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+#guest-score {  background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50px;
+}
+
+button {
+    background: none;
+    border-radius: 5px;
+    border: 1px solid #9AABD8;
+    color: #9AABD8;
+    justify-content: space-around;
+}
+
+
+
